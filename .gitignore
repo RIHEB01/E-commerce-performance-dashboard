@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.sqlite
+*.db
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Local dataset files
+/data/raw/*.csv
+/data/raw/*.parquet
+/data/processed/*.csv
+/data/processed/*.parquet
+/reports/figures/*.png
+reports/figures/*.html
