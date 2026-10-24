@@ -175,7 +175,7 @@ To continue the analysis beyond this current version, the next step would be to 
 
 ## Dashboard preview
 
-No data-derived dashboard screenshot is included. Add a screenshot only after confirming the applicable dataset terms permit sharing the displayed results.
+
 
 ## Author
 
